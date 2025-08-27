@@ -1,0 +1,36 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+
+}
+
+html, body {
+  height: 100%;
+}
+
+
+ul, ol {
+  list-style: none;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-size: 18px;
+  color: #4a4c4e; 
+  background-color: #f2f4f7;
+  background-attachment: fixed;
+  background: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
